@@ -1,0 +1,16 @@
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.exe
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.deps.json
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.runtimeconfig.json
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.dll
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\ref\TargetTest.dll
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\bin\Debug\net5.0\TargetTest.pdb
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.dll
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\ref\TargetTest.dll
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.pdb
+C:\Users\Marcelo\source\repos\TargetTest\TargetTest\obj\Debug\net5.0\TargetTest.genruntimeconfig.cache
